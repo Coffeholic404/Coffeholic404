@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]! ☕️
+# 👋 Hello, I'm Mohammed Taqwi! ☕️
 
 ![Frontend Developer](https://img.shields.io/badge/-Frontend%20Developer-%2300ADD8?style=flat-square)
 ![Coffee Lover](https://img.shields.io/badge/-Coffee%20Lover-%23FFDD00?style=flat-square)
@@ -12,7 +12,7 @@ Fuelled by coffee, I'm on a quest to craft beautiful digital experiences! ☕️
 
 - 🌱 Currently brewing up some magic with **Vue3.js** and **Nuxt.js**!
 - 👀 Fascinated by the art of **animation** and all things **web development**.
-- 📫 Let's brew up something amazing together! Reach me at [your.email@example.com](mailto:your.email@example.com).
+- 📫 Let's brew up something amazing together! Reach me at [taqealibade@gmail.com](mailto:taqealibade@gmail.com).
 - ⚡ Fun Fact: Did you know, coffee and coding go together like peanut butter and jelly? ☕️💻
 
 Let's connect over a virtual cup of coffee and make the web a more delightful place, one line of code at a time!
