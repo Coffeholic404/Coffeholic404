@@ -16,5 +16,5 @@ Fuelled by coffee, I'm on a quest to craft beautiful digital experiences! ☕️
 - ⚡ Fun Fact: Did you know, coffee and coding go together like peanut butter and jelly? ☕️💻
 
 Let's connect over a virtual cup of coffee and make the web a more delightful place, one line of code at a time!
-
-![Coffee Code Gif](https://media.giphy.com/media/hVJUokc6Gz4TK/giphy.gif)
+## ⚡My skills⚡
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,pinia)](https://skillicons.dev)
