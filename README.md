@@ -17,4 +17,4 @@ Fuelled by coffee, I'm on a quest to craft beautiful digital experiences! ☕️
 
 Let's connect over a virtual cup of coffee and make the web a more delightful place, one line of code at a time!
 ## ⚡My skills⚡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,pinia,tailwind)](https://skillicons.dev)
