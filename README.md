@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohammed Taqwi! ☕️
+# 👋 Hello, I'm Mohammed Taqi! ☕️
 
 ![Frontend Developer](https://img.shields.io/badge/-Frontend%20Developer-%2300ADD8?style=flat-square)
 ![Coffee Lover](https://img.shields.io/badge/-Coffee%20Lover-%23FFDD00?style=flat-square)
